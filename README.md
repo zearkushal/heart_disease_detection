@@ -4,9 +4,9 @@ A full-stack machine learning web application that predicts the probability of h
 
 ---
 ### 🌐 Live Demo
-**Explore the live application here:** [Heart Disease Predictor Interface](https://heart-disease-detection-60e9.onrender.com/)
+**Explore the live application here:** <a href="https://heart-disease-detection-60e9.onrender.com/" target="_blank" rel="noopener noreferrer">Heart Disease Predictor Interface</a>
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://heart-disease-detection-60e9.onrender.com/)
+<a href="https://heart-disease-detection-60e9.onrender.com/" target="_blank" rel="noopener noreferrer">![Deployment Status](https://img.shields.io/badge/Deployment-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)</a>
 
 ---
 ## 🚀 Features
