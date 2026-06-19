@@ -2,13 +2,7 @@
 
 A full-stack machine learning web application that predicts the probability of heart disease based on 11 clinical and lifestyle features. The project utilizes a **Logistic Regression** model trained in a Jupyter Notebook, serialized with `joblib`, and served via a **Flask** backend with a clean HTML5/CSS3 frontend.
 
----
-### 🌐 Live Demo
-**Explore the live application here:** <a href="https://heart-disease-detection-60e9.onrender.com/" target="_blank" rel="noopener noreferrer">Heart Disease Predictor Interface</a>
 
-<a href="https://heart-disease-detection-60e9.onrender.com/" target="_blank" rel="noopener noreferrer">![Deployment Status](https://img.shields.io/badge/Deployment-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)</a>
-
----
 ## 📊 Model Evaluation & Performance
 
 The model was validated on a test dataset split, showing strong predictive power with a highly balanced precision and recall tradeoff. 
